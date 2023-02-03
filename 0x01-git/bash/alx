@@ -1,4 +1,9 @@
 echo
+<<<<<<< HEAD
 #!/bin/bash
 ALX School is so cool!
+=======
+#!/bin/bashALX School
+ALX School
+>>>>>>> update_script
 echo ALX
